@@ -2,3 +2,6 @@
 snowflake-snowpark-python
 streamlit
 requests
+pyOpenSSL==23.0.0
+cryptography==36.0.
+
