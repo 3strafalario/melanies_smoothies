@@ -2,6 +2,7 @@
 snowflake-snowpark-python
 streamlit
 requests
+pandas
 pyOpenSSL==23.0.0
 cryptography==38.0.0
 
